@@ -11,7 +11,6 @@
 
 ## ✨ Preview
 
-![Portfolio Preview]((https://drive.google.com/file/d/1GW-Z18Kv94djhUy2IVgUVRnqeRflugLT/view)) <!-- Replace with your actual image -->
 
 🔗 **Live Site**: [Click Here to Visit](https://dhruvkanziya.netlify.app/)  
 📦 **Repository**: [GitHub Repo](https://github.com/dhruvkanziya/portfolio.git)
